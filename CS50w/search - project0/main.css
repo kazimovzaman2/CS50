@@ -1,0 +1,104 @@
+.main {
+  text-align: center;
+  margin-top: 140px;
+}
+.main .searchmania_img {
+  width: 300px;
+}
+.main #form {
+  margin-top: 30px;
+}
+.main #form .searchbar {
+  margin: 0 auto;
+  width: 375px;
+  height: 40px;
+  border-radius: 30px;
+  border: 1px solid #dcdcdc;
+}
+.main #form .searchbar input {
+  height: 33px;
+  border: none;
+  width: 350px;
+  font-size: 16px;
+  outline: none;
+}
+.main #form .searchbar:hover {
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+.main #form .searchbutton {
+  background-color: #f5f5f5;
+  border: none;
+  color: #707070;
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 4px;
+  outline: none;
+}
+.main #form .searchbutton:hover {
+  border: 1px solid #c8c8c8;
+  padding: 9px 19px;
+  color: #808080;
+}
+
+.advanced_form label {
+  margin-left: 200px;
+  float: left;
+}
+.advanced_form .another_class {
+  margin-right: 100px;
+  float: right;
+}
+
+.h1-advanced {
+  color: #d93025;
+  font-size: 20px;
+  margin: 25px 35px;
+}
+
+.line {
+  border-bottom: 1px solid #ebebeb;
+}
+
+.h2-advanced {
+  font-size: 16px;
+  color: #333333;
+}
+
+.div-advanced {
+  margin: 50px;
+}
+
+.row-input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.left {
+  width: 200px;
+}
+
+.right {
+  width: 385px;
+}
+
+.p-advanced {
+  font-size: 13px;
+  vertical-align: middle;
+}
+
+.btn-advanced {
+  box-shadow: none;
+  background-color: #4d90fe;
+  border: 1px solid #3079ed;
+  color: #fff;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: flex-end;
+  width: 585px;
+  margin-top: 30px;
+}/*# sourceMappingURL=main.css.map */
