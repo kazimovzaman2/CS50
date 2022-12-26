@@ -1,0 +1,29 @@
+.row {
+    background-color: black;
+    text-align: center;
+}
+
+.row .banner-text {
+    margin: auto;
+}
+
+.row .banner-text h1 {
+    margin: auto;
+    font-size: 59px;
+}
+
+.row h1, p, a {
+    color: #ffffff;
+}
+
+.social a {
+    text-decoration: none;
+}
+
+.main-col h2 {
+    color: #ffffff;
+}
+
+.twelve h3 {
+    color: #ffffff;
+}
