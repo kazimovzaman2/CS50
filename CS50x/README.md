@@ -26,43 +26,42 @@ I took this online course during October-December, 2022.
 > N.B. For all of the Problem Sets, only "**more comfortable**" ones are implemented.  
 
 🔴 Week 1 - C  
-- Lab 1
-	+ [hello](./lab1/hello)
-	+ [population](./lab1/population)
 - Problem Set 1
-	+ [credit](./pset1/credit)
-	+ [mario](./pset1/mario)
+	+ [hello](./psets/pset0/hello)
+	+ [credit](./psets/pset1/credit/)
+	+ [mario](./psets/pset1/mario/)
 
 🟠 Week 2 - Arrays  
 - Lab 2
-	+ [scrabble](./lab2/scrabble)
+	+ [scrabble](./labs/lab2/)
 - Problem Set 2
-	+ [readability](./pset2/readability)
-	+ [substitution](./pset2/substitution)
+	+ [caesar](./psets/pset2/caesar/)
+	+ [readability](./psets/pset2/readabilityy/)
+	+ [substitution](./psets/pset2/substitution/)
 
 🟡 Week 3 - Algorithms  
 - Lab 3
-	+[sort](./lab3/sort)
+	+ [sort](./labs/lab3/)
 - Problem Set 3
-	+ [plurality](./pset3/plurality)
-	+ [tideman](./pset3/tideman)
+	+ [plurality](./psets/pset3/plurality)
+	+ [tideman](./psets/pset3/tideman)
 
 🟢 Week 4 - Memory  
 - Lab 4
-	+ [volume](./lab4/volume)
+	+ [volume](./lab/lab4/)
 - Problem Set 4
-	+ [filter](./pset4/filter)
-	+ [recover](./pset4/recover)
+	+ [filter](./psets/pset4/filter-less)
+	+ [recover](./psets/pset4/recover)
 
 🔵 Week 5 - Data Structures  
 - Lab 5
-	+ [inheritance](./lab5/inheritance)
+	+ [inheritance](./labs/lab5/)
 - Problem Set 5
-	+ [speller](./pset5/speller)
+	+ [speller](./psets/pset5/)
 
 🟣 Week 6 - Python  
 - Lab 6
-	+ [worldcup](./lab6/worldcup)
+	+ [worldcup](./labs/lab6/)
 - Problem Set 6
 	+ [credit](./pset6/credit)
 	+ [dna](./pset6/dna)
