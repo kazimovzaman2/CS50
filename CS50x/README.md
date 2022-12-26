@@ -95,8 +95,7 @@ I took this online course during October-December, 2022.
 
 ### Certificate of Completion
 
-- [CS50 Certificate](https://certificates.cs50.io/4ea0f1af-9e1e-4544-a99a-974f84fa02c1.png?size=A4)
-- [Verified Certificate from edX](https://courses.edx.org/certificates/83c9c3ff8c654190b867c224aeaabefa)
+- [CS50 Certificate](https://certificates.cs50.io/768e6491-ae52-4014-ba06-b450ecfea245.png?size=A4)
 
 ---
 
