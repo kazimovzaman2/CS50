@@ -63,30 +63,30 @@ I took this online course during October-December, 2022.
 - Lab 6
 	+ [worldcup](./labs/lab6/)
 - Problem Set 6
-	+ [credit](./pset6/credit)
-	+ [dna](./pset6/dna)
-	+ [hello](./pset6/hello)
-	+ [mario](./pset6/mario)
-	+ [readability](./pset6/readability)
+	+ [dna](./psets/pset6/dna)
+	+ [hello](./psets/pset6/sentimental-hello)
+	+ [mario](./psets/pset6/sentimental-mario-less)
+	+ [readability](./psets/pset6/sentimental-readability)
+	+ [readability](./psets/pset6/sentimental-cash)
 
 🟤 Week 7 - SQL  
 - Lab 7
-	+ [songs](./lab7/songs)
+	+ [songs](./labs/lab7/songs/)
 - Problem Set 7
-	+ [fiftyville](./pset7/fiftyville)
-	+ [movies](./pset7/movies)
+	+ [fiftyville](./psets/pset7/fiftyville)
+	+ [movies](./psets/pset7/movies)
 
 ⚫️ Week 8 - HTML, CSS, JavaScript  
 - Lab 8
-	+ [trivia](./lab8/trivia)
+	+ [trivia](./labs/lab8/trivia/)
 - Problem Set 8
-	+ [homepage](https://github.com/huaminghuangtw/huaminghuangtw.github.io) (⭐View my personal website [here](https://huaminghuangtw.github.io/) !!!)
+	+ [homepage](./psets/pset8/homepage/)
 
 ⚪️ Week 9 - Flask  
 - Lab 9
-	+ [birthdays](./lab9/birthdays)
+	+ [birthdays](./labs/lab9/birthdays/)
 - Problem Set 9
-	+ [finance](https://github.com/huaminghuangtw/CS50-Finance)
+	+ [finance](./psets/pset9/finance/)
 
 </details>
 
