@@ -6,7 +6,7 @@ A collection of labs, problem sets and code files for "CS50's Introduction to Co
 
 ## [CS50w](/CS50w/)
 This folder contains the code files for the web-based version of CS50.
-## CS50x
+## [CS50x](/CS50x/)
 This folder contains the code files for the CS50x version.
 ## How to use
 1. Clone the repository by running `git clone https://github.com/kazimovzaman2/cs50.git`.
