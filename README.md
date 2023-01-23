@@ -9,7 +9,7 @@ This folder contains the code files for the web-based version of CS50.
 ## CS50x
 This folder contains the code files for the CS50x version.
 ## How to use
-1. Clone the repository by running `git clone https://github.com/yourusername/cs50.git`.
+1. Clone the repository by running `git clone https://github.com/kazimovzaman2/cs50.git`.
 2. Navigate to the folder of the version you want to use (CS50w or CS50x).
 3. Open the code files in your preferred editor and start exploring! 
 ## Tips
