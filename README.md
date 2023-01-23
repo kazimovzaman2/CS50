@@ -1,4 +1,4 @@
-# CS50 Repository
+# CS50
 
 A collection of labs, problem sets and code files for "CS50's Introduction to Computer Science", HarvardX, October-December, 2021.
 
